@@ -1,7 +1,7 @@
-import PlatinaLili from './components/platinaLili';
+import PlatinaLili from "./components/PlatinaLili";
 
 function App() {
-  return <PlatinaLili />
+  return <PlatinaLili />;
 }
 
 export default App;
